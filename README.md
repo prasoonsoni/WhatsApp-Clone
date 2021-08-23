@@ -71,19 +71,19 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Features
+### <img src="https://noveltypharma.eu/wp-content/uploads/2020/10/icon_novel_ingredients.png" width="32" height="32"> Features
 
 * []()
 * []()
 * []()
 
-### Tech Stack
+### <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech Stack
 
 * []()
 * []()
 * []()
 
-### Screenshots
+### <img src="https://facebook.github.io/screenshot-tests-for-android/static/logo.png" width="32" height="32"> Screenshots
 
 * []()
 * []()
