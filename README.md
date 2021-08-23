@@ -18,7 +18,7 @@
   <p align="center">
     A Fully Functional WhatsApp Clone.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/prasoonsoni/WhatsApp-Clone"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     ·
@@ -94,7 +94,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/prasoonsoni/WhatsApp-Clone.git
    ```
 2. Install NPM packages
    ```sh
@@ -115,7 +115,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/prasoonsoni/WhatsApp-Clone/issues) for a list of proposed features (and known issues).
 
 
 
@@ -144,7 +144,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/prasoonsoni/WhatsApp-Clone](https://github.com/prasoonsoni/WhatsApp-Clone)
 
 
 
@@ -168,10 +168,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [forks-url]: https://github.com/prasoonsoni/WhatsApp-Clone/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/prasoonsoni/WhatsApp-Clone.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/prasoonsoni/WhatsApp-Clone/stargazers
 
 [issues-shield]: https://img.shields.io/github/issues/prasoonsoni/WhatsApp-Clone.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/prasoonsoni/WhatsApp-Clone/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/prasoonsoni
