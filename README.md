@@ -1,10 +1,10 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]][https://github.com/prasoonsoni/WhatsApp-Clone/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/prasoonsoni/WhatsApp-Clone/network/members]
+[![Stargazers][stars-shield]][https://github.com/prasoonsoni/whatsapp-clone/stargazers]
+[![Issues][issues-shield]][https://github.com/prasoonsoni/whatsapp-clone/issues]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/prasoonsoni/]
 
 
 
