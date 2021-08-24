@@ -50,7 +50,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -64,30 +63,24 @@
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://openclipart.org/download/307315/1538154643.svg" width="32" height="32"> About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+WhatsApp Clone is an app to provide users with facilities such as Chatting, Sharing Images etc. This project is created to understand how an social networking app works and the logic behind them. It is created just for educational purpose not for industrial use.
 
 
 ### <img src="https://noveltypharma.eu/wp-content/uploads/2020/10/icon_novel_ingredients.png" width="32" height="32"> Features
 
-* []()
-* []()
-* []()
+* User can register using mobile number.
+* Chat with friends.
+* Online and typing indicator.
+* Send images in chat.
+* Upload and View Status.
 
 ### <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech Stack
 
-* []()
-* []()
-* []()
+* Android Studio
+* JAVA
+* Firebase
 
 ### <img src="https://facebook.github.io/screenshot-tests-for-android/static/logo.png" width="32" height="32"> Screenshots
-
-* []()
-* []()
-* []()
 
 
 
@@ -98,31 +91,15 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+In order to get a copy of the project you will require you to have Android Studio (v4.0 and above) installed. If you don't have it, you can download Android Studio from the [official website](https://developer.android.com/studio).
 
 ### Installation
+Open Android Studio, select `Import from Version Control` and paste the following link to clone the repository:
+``` 
+https://github.com/prasoonsoni/WhatsApp-Clone.git 
+```
+Run a Gradle build if there is some error in syncing the dependencies. Generate an APK by going to `Build > Build APK` and install it on your Android device or run the app from within Android Studio either by using an emulator or by USB debugging. 
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/prasoonsoni/WhatsApp-Clone.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
@@ -148,9 +125,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/1024px-Google_Contacts_icon.svg.png" width=32 height=32> Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/prasoonsoni/WhatsApp-Clone](https://github.com/prasoonsoni/WhatsApp-Clone)
+### Prasoon Soni
+[`E-Mail`](mailto:prasoonsoni.work@gmail.com)
+[`LinkedIn`](https://www.linkedin.com/in/prasoonsoni/)
 
 
 
