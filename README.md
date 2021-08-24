@@ -104,14 +104,14 @@ Run a Gradle build if there is some error in syncing the dependencies. Generate 
 
 
 <!-- ROADMAP -->
-## <img src="https://image.flaticon.com/icons/png/128/712/712058.png" width="32" height="32"> Roadmap
+# <img src="https://image.flaticon.com/icons/png/128/712/712058.png" width="32" height="32"> Roadmap
 
 See the [open issues](https://github.com/prasoonsoni/WhatsApp-Clone/issues) for a list of proposed features (and known issues).
 
 
 
 <!-- CONTRIBUTING -->
-## <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/3/git-icon-1788c-1590702885345.png" width=32 height=32> Contributing
+# <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/3/git-icon-1788c-1590702885345.png" width=32 height=32> Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -123,7 +123,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- CONTACT -->
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/1024px-Google_Contacts_icon.svg.png" width=32 height=32> Contact
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Google_Contacts_icon.svg/1024px-Google_Contacts_icon.svg.png" width=32 height=32> Contact
 
 ### Prasoon Soni
 [`E-Mail`](mailto:prasoonsoni.work@gmail.com)
@@ -132,7 +132,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## <img src="https://www.pivotsoftware.com/uploads/images/_feature/icon-25.png" width=32 height=32> Acknowledgements
+# <img src="https://www.pivotsoftware.com/uploads/images/_feature/icon-25.png" width=32 height=32> Acknowledgements
 
 * []()
 * []()
