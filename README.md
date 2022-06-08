@@ -22,10 +22,21 @@
   </p>
 </p>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/prasoonsoni/Whatsapp-Clone/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/prasoonsoni/Whatsapp-Clone.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/prasoonsoni/Whatsapp-Clone/network/members">
+    <img src="https://img.shields.io/github/forks/prasoonsoni/Whatsapp-Clone?style=for-the-badge">
+  </a>  
+  <a href="https://github.com/prasoonsoni/Whatsapp-Clone/stargazers">
+    <img src="https://img.shields.io/github/stars/prasoonsoni/Whatsapp-Clone?style=for-the-badge">
+  </a>
+  <a href="https://github.com/prasoonsoni/Whatsapp-Clone/issues">
+    <img src="https://img.shields.io/github/issues/prasoonsoni/Whatsapp-Clone?style=for-the-badge">
+  </a>
+</p>
 
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://openclipart.org/download/307315/1538154643.svg" width="32" height="32"> About The Project
