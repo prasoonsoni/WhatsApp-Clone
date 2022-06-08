@@ -1,16 +1,10 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/prasoonsoni/WhatsApp-Clone">
-    <img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">WhatsApp Clone</h3>
@@ -20,45 +14,18 @@
     <br />
     <a href="https://github.com/prasoonsoni/WhatsApp-Clone"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    ·
+    •
     <a href="https://github.com/prasoonsoni/whatsapp-clone/issues">Report Bug</a>
-    ·
+    •
     <a href="https://github.com/prasoonsoni/whatsapp-clone/issues">Request Feature</a>
-  .
+    •
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#tech-stack">Tech Stack</a></li>
-        <li><a href="#screenshots">Screenshots</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
-
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://openclipart.org/download/307315/1538154643.svg" width="32" height="32"> About The Project
@@ -66,7 +33,7 @@
 WhatsApp Clone is an app to provide users with facilities such as Chatting, Sharing Images etc. This project is created to understand how an social networking app works and the logic behind them. It is created just for educational purpose not for industrial use.
 
 
-### <img src="https://noveltypharma.eu/wp-content/uploads/2020/10/icon_novel_ingredients.png" width="32" height="32"> Features
+### <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="32" height="32"> Features
 
 * User can register using mobile number.
 * Chat with friends.
@@ -79,10 +46,6 @@ WhatsApp Clone is an app to provide users with facilities such as Chatting, Shar
 * Android Studio
 * JAVA
 * Firebase
-
-### <img src="https://facebook.github.io/screenshot-tests-for-android/static/logo.png" width="32" height="32"> Screenshots
-
-
 
 <!-- GETTING STARTED -->
 ## <img src="https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png" width="32" height="32"> Getting Started
@@ -99,16 +62,6 @@ Open Android Studio, select `Import from Version Control` and paste the followin
 https://github.com/prasoonsoni/WhatsApp-Clone.git 
 ```
 Run a Gradle build if there is some error in syncing the dependencies. Generate an APK by going to `Build > Build APK` and install it on your Android device or run the app from within Android Studio either by using an emulator or by USB debugging. 
-
-
-
-
-<!-- ROADMAP -->
-## <img src="https://image.flaticon.com/icons/png/128/712/712058.png" width="32" height="32"> Roadmap
-
-See the [open issues](https://github.com/prasoonsoni/WhatsApp-Clone/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## <img src="https://hpe-developer-portal.s3.amazonaws.com/uploads/media/2020/3/git-icon-1788c-1590702885345.png" width=32 height=32> Contributing
@@ -128,17 +81,6 @@ Contributions are what make the open source community such an amazing place to b
 ### Prasoon Soni
 [`E-Mail`](mailto:prasoonsoni.work@gmail.com)
 [`LinkedIn`](https://www.linkedin.com/in/prasoonsoni/)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## <img src="https://www.pivotsoftware.com/uploads/images/_feature/icon-25.png" width=32 height=32> Acknowledgements
-
-* []()
-* []()
-* []()
-
-
 
 
 
