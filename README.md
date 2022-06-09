@@ -44,7 +44,7 @@
 WhatsApp Clone is an app to provide users with facilities such as Chatting, Sharing Images etc. This project is created to understand how an social networking app works and the logic behind them. It is created just for educational purpose not for industrial use.
 
 
-### <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="32" height="32"> Features
+## <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="32" height="32"> Features
 
 * User can register using mobile number.
 * Chat with friends.
@@ -52,7 +52,7 @@ WhatsApp Clone is an app to provide users with facilities such as Chatting, Shar
 * Send images in chat.
 * Upload and View Status.
 
-### <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech Stack
+## <img src="https://techstackapps.com/media/2019/11/TechStackApps-logo-icon.png" width="32" height="32"> Tech Stack
 
 * Android Studio
 * JAVA
